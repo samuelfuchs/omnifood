@@ -1,4 +1,4 @@
-# omnifood
+# Omnifood (SPA)
 This is a website I made to learn responsivness and SPA (in english)
 
 Technologies used in this project:
